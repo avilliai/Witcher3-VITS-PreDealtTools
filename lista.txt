@@ -1,0 +1,41 @@
+wavs/00011a0d6.wav|Local serial killer seems to obey you. Maybe you could talk him out of it, convince him to stop murdering.
+wavs/00011a0d4.wav|So that's his name. He's your¡­ friend?
+wavs/00011a1a8.wav|Haven't exactly done a great job with that. He's killed one knight since I got here, least three others before I arrived.
+wavs/00011a0cf.wav|Miraculous regeneration - how'd you manage it?
+wavs/000121559.wav|Him? How? And what've you been doing all these years?
+wavs/00011a032.wav|True enough. Need to find your friend. I'm hoping you'll agree to help.
+wavs/000123242.wav|Come on, gotta be some way¡­
+wavs/00011a39f.wav|And this? Could this help?
+wavs/00011a050.wav|Off one of the Beast's victims, found by a bend in the river. Body was chopped, in pieces. Three of those pieces were hands.
+wavs/000120970.wav|Hand with the ring seemed the odd one out. A bruxa had taken an interest in it.
+wavs/00012483b.wav|Could've left the door unlatched.
+wavs/0001196b6.wav|Regis' raven wasn't lying. Spoons all over the place.
+wavs/0001196d2.wav|Strange¡­ Get a sense that the spoons are beating out some kind of rhythm, a message¡­ trying to tell me something.
+wavs/0001196d6.wav|Hm. Actually does seem like a wight's lair. Bit atypical, but still. Cauldron should be somewhere around here¡­
+wavs/0001255e5.wav|A spoon key, sophisticated crafting. Tag bears a description.
+wavs/0001255e7.wav|Wight's a true collector.
+wavs/0001196da.wav|Woman's name scratched into this wooden spoon. Romantic¡­
+wavs/0001196de.wav|Cauldron I was looking for. Wight's not particularly tidy¡­
+wavs/00011faab.wav|"None shall sit and dine with you at your table, no spoon you have shall sate you, never again shall you wish to spy your reflection in the mirror."
+wavs/00011fb1a.wav|Table's set¡­ Wight who lives here is getting ready for some sort of feast.
+wavs/00011fb22.wav|Smashed mirror¡­ as if someone couldn't stand to look at themselves.
+wavs/00011fb26.wav|Wight that lives here - definitely afflicted by a curse. And it's been trying desperately to lift it.
+wavs/00012374e.wav|Right arm bit right off. Teeth all knocked out. Somebody tried to force-feed him¡­
+wavs/0001249b4.wav|Wight's obsessed. A real collector. Thoroughbred.
+wavs/0001249b6.wav|Spoon, pretty ordinary, maybe a little old.
+wavs/0001249b8.wav|Another spoon. Yup, just as normal as the last one.
+wavs/0001267b2.wav|Thousands of 'em here. Wight's been a collector for years.
+wavs/0001196fa.wav|Dammit! Gotta catch it.
+wavs/00011facf.wav|Shh, easy, not gonna hurt you.
+wavs/00011fad3.wav|I'll take you someplace safe.
+wavs/0001201a7.wav|An ancient vampire dungeon. Seen a lot of things in my time. Nothing quite like this, though.
+wavs/00012337b.wav|Send your spies after me?
+wavs/00011f110.wav|Managed fine alone, but¡­ thanks for the thought. Gonna need much longer to finish brewing Resonance? Mentioned a last ingredient, too - what about that?
+wavs/00011f129.wav|Shouldn't be a problem. I happen to know a higher vampire who should be willing to help. Right, Regis?
+wavs/00011f12d.wav|Not sure I understand what the problem is. Can't we just draw some of your blood?
+wavs/0001206db.wav|Charming place. But¡­ what're all those cages for? Mentioned one vampire being kept here.
+wavs/000123643.wav|They treated them like livestock, live bait.
+wavs/00012363e.wav|Don't take it so hard. Nothing you could've done about it. Let's get to work.
+wavs/00011ede5.wav|Maybe we need a safe word? You know, something you'll say when you can't take it any more.
+wavs/00011ede9.wav|Don't know. Uh, calm you down¡­ somehow¡­
+wavs/00011edf1.wav|Aha. Regis has smelled the blood¡­

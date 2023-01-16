@@ -1,0 +1,309 @@
+wavs/00012897d.wav|I see. All right¡­ High time I set off.
+wavs/00011933a.wav|Show me what you have on offer, will you?
+wavs/000124e11.wav|Calm down. It's over.
+wavs/0001194e0.wav|What do you have that you're willing to sell?
+wavs/00012629a.wav|Looking for scrolls, manuscripts. Bearing diagrams of witcher gear, specifically. Any chance you've happened on any?
+wavs/0001194e6.wav|Thanks. So long.
+wavs/0001256cb.wav|Fine, lead the way.
+wavs/0001256cd.wav|Go ahead. I'll stop by when I'm in the area.
+wavs/0001194ed.wav|All right. What do you have?
+wavs/0001254d8.wav|Vineyard 's glory days seem like a thing of the past¡­
+wavs/0001194f1.wav|Thanks, see you later.
+wavs/000120b67.wav|Prefer willow bark or iris root for stomach aches. Wort can cause dizziness, nausea.
+wavs/000120b6b.wav|What look's that? And looks deceive, anyway. Me, I'm not out for common weeds that grow in any meadow. Need rare ingredients. Can you help me out? Or should I move on?
+wavs/00011a6d6.wav|Meant no offense.
+wavs/000120b7a.wav|No. From somewhere a long way off. Kaer Morhen. Northern Kaedwen.
+wavs/000120b7e.wav|Same thing I do anywhere. Killing monsters.
+wavs/00011a6da.wav|I'm off. See you later.
+wavs/00012773f.wav|First things first. Need to talk about my reward.
+wavs/00011ef47.wav|Need to think about it. Sorry, got a pretty full plate.
+wavs/00011ef3b.wav|All taken care of. Went inside and cleaned up.
+wavs/00011ef45.wav|None yet. Rest assured, though. It'll all work out.
+wavs/00011e8a3.wav|Storehouse was full of rotten meat. Attracted ghouls I had to get rid of.
+wavs/00011f5b8.wav|Mhm. Though I'd advise you to clean the meat out quick. Before other ghouls show up.
+wavs/00011e8ad.wav|Relax, I'll get to it.
+wavs/000119a30.wav|Let's see what you got in stock.
+wavs/000119a44.wav|Like you to craft something for me. Would you?
+wavs/00012227c.wav|Care for a quick round of gwent?
+wavs/000122281.wav|Gwent - maybe we could play a round?
+wavs/000119ae2.wav|My time's up. So long.
+wavs/000119b87.wav|Maybe we could do some trading?
+wavs/000121194.wav|Good. Something to impress the ladies with.
+wavs/000121198.wav|Yeah. Good luck with that.
+wavs/000119b85.wav|I'm off. See you later.
+wavs/00011efa5.wav|I will, soon enough. Patience.
+wavs/00011ef95.wav|Done that already. Ran into a few giant centipedes.
+wavs/00012119a.wav|Don't know. I kill monsters, don't predict the future.
+wavs/000119b85.wav|I'm off. See you later.
+wavs/00011ef99.wav|Wound doesn't look good. Patch that up quick if I were you, before it starts festering.
+wavs/000121160.wav|Mhm. And if you wanted a witcher to help you, you should've thought twice about being rude.
+wavs/000119bc3.wav|Show me what you have.
+wavs/0001256cf.wav|Let's go, no time to lose.
+wavs/0001256d1.wav|Drop by when I'm in the area.
+wavs/00011e994.wav|Could replace them with something else. Perch, for example¡­
+wavs/000119c07.wav|Got any gossip? Fishermen talking about anything interesting?
+wavs/00011e996.wav|Asked a serious question.
+wavs/000119c0b.wav|Thanks. So long.
+wavs/000121735.wav|Hm. Had wine on my mind all day.
+wavs/000121739.wav|Hmm. I'll need to think about it.
+wavs/00012173f.wav|Show me what you got behind the counter.
+wavs/000119ca9.wav|Time I was on my way. See you.
+wavs/000126df7.wav|Don't know if you noticed, but I just saved your ass.
+wavs/000121794.wav|Course. And I'll want a share of your beggars' alms, too. Wanted to take a look at your goods first. May I?
+wavs/000119d60.wav|Show me your wares. Promise not to touch anything.
+wavs/000119d62.wav|Like you to craft something for me. I'll pay, of course.
+wavs/000119d68.wav|Gotta go. So long.
+wavs/000121120.wav|That stand in the way of our doing business?
+wavs/00011a091.wav|Show me what you got.
+wavs/00011a095.wav|Gotta go. Farewell.
+wavs/00011a188.wav|Your goods - mind if I have a glance?
+wavs/000126a72.wav|What's a barber do on a farm like this?
+wavs/00011e85b.wav|Somebody threaten to do that to you?
+wavs/00011bf59.wav|Been to the cave. Full of monsters, all right - gargoyles. Safe now, though, I guarantee it.
+wavs/00011bf61.wav|Not yet. But stay away from there for now. Air inside's unhealthy.
+wavs/00012515c.wav|No hero. Just a witcher. Slaying monsters is my job.
+wavs/00011a547.wav|What're you offering, what can I buy?
+wavs/000121335.wav|Ehh¡­ Been on the road so long, don't know how to answer that. Let's just say I'm from the North.
+wavs/000121339.wav|Exaggerated. Not by much, though.
+wavs/00012228a.wav|You play much gwent? Up for a quick match. maybe?
+wavs/00011a2f0.wav|Mentioned you have family in Aedirn¡­? Whereabout? If you don't mind my asking.
+wavs/000121343.wav|Uh, yeah. Number of times. It's the hometown of my¡­ Hm.
+wavs/00011a2f4.wav|Should be going. Farewell.
+wavs/00011a55e.wav|Show me what you got.
+wavs/00011a55c.wav|Thanks, see you later.
+wavs/0001256e9.wav|Lead the way, right behind you.
+wavs/0001256eb.wav|Need to look around here some more. But I'll be sure to stop by if I'm ever in the area.
+wavs/00011a3e0.wav|What're you serving up today?
+wavs/00012228f.wav|I know you're busy, but¡­ round of gwent?
+wavs/00011a438.wav|Hm, what've you got there?
+wavs/000122292.wav|Up for a round of gwent?
+wavs/00011a45c.wav|Show me what you have.
+wavs/00011a1c4.wav|Thanks. So long.
+wavs/00011c583.wav|Cozy place you got.
+wavs/0001222a3.wav|Interested in the unusual, got a special request. Just, need to keep this between you and me.
+wavs/000125082.wav|Gwent - you play?
+wavs/00011c57e.wav|Hm. Let's call it business.
+wavs/00011c529.wav|Me again. Real-life witcher.
+wavs/00011c536.wav|Let's go upstairs.
+wavs/00011c532.wav|The, uh¡­ playing at being a witcher thing - what's that about?
+wavs/00012094a.wav|Mhm. Got a strong suspicion who the author might be.
+wavs/00011c534.wav|Sorry. Gotta go.
+wavs/000120933.wav|What's that? Another what?
+wavs/000120937.wav|Misunderstanding, I'm afraid. I am a witcher.
+wavs/00011c544.wav|Let's go somewhere secluded. Hm?
+wavs/00011c5b1.wav|Don't beat around the bush, do you.
+wavs/00012096c.wav|Right about that. Definitely had something else in mind.
+wavs/00011c54c.wav|Take me to your room?
+wavs/00011c54e.wav|Tell me a bit about yourself.
+wavs/00011c54a.wav|Sorry¡­ gotta go.
+wavs/00011ef89.wav|Haven't seen to your problem just yet. A little patient, huh?
+wavs/00011ef79.wav|Problem solved. Shaelmaar that lived in the cave won't pester you any more.
+wavs/000125198.wav|If it was your job to exterminate them - yeah, I did.
+wavs/00011a7e8.wav|Mind if I have a look at your goods?
+wavs/00011f7ac.wav|Nope, just a witcher who happened to be passing through¡­
+wavs/00011f7b4.wav|I'm Geralt. Geralt of Rivia.
+wavs/00011a86d.wav|Hm. Lemme see what you're serving.
+wavs/00010e7de.wav|Got an account here. Like to make a withdrawal.
+wavs/00010e7e2.wav|Geralt of Rivia.
+wavs/00010ea62.wav|That's inaccurate, as you can see.
+wavs/00010e8f4.wav|About my account. Again¡­
+wavs/000121ac4.wav|Hm¡­ What're you selling, exactly?
+wavs/0001245cc.wav|Ah. None for me, thanks.
+wavs/0001245d0.wav|Hm¡­ Usually focus on armor's other attributes, color's not so important¡­ But I guess there's some sense to what you say.
+wavs/0001250ec.wav|I'm Geralt. So what is it you do here?
+wavs/0001289f6.wav|Damn, something's seriously wrong here¡­
+wavs/0001289f8.wav|Something's not right¡­
+wavs/0001287de.wav|Someone willing to pay me for resolving the problem?
+wavs/000125ce1.wav|Vermentino can go back to operating normally.
+wavs/0001263b6.wav|Fine. I'll see what I can do.
+wavs/000125cee.wav|Solved the problems at Coronata. Vineyard can go back to operating normally.
+wavs/0001263c6.wav|See what I can do.
+wavs/000126736.wav|Got it all here, in writing.
+wavs/000126598.wav|Probably why he incited the feud. Pulled it off, too, mostly. Just failed to bring his plan to completion when the Beast got him.
+wavs/000126193.wav|This vineyard, Belgaard - why's it so valuable?
+wavs/0001264ea.wav|Not much, just some hints.
+wavs/000125f6a.wav|More or less already agreed, I guess¡­
+wavs/000125f9a.wav|I'll get to work.
+wavs/000125f6e.wav|I can help, sure, but I won't work for free.
+wavs/000125f70.wav|I'll look into it if I pass by. All I can promise.
+wavs/000125f82.wav|More or less agreed already¡­
+wavs/000125f80.wav|Can do it, but not for free.
+wavs/000125f86.wav|Got some other things on my plate. Need to think this through. Might look in on you if I'm in the area.
+wavs/000125f8a.wav|Ah, in for a copper, in for a crown¡­ Yeah, I'll help.
+wavs/0001273f0.wav|Need to talk about my fee, first.
+wavs/000125f8e.wav|Don't know that I wanna get any more involved. One thing I can promise - if I come across anything dangerous, I'll definitely react.
+wavs/00012673b.wav|Tended to Belgaard's problems. Think you can start producing wine.
+wavs/00012674b.wav|Thanks. And good luck.
+wavs/00012675e.wav|Shouldn't have any more problems with the vineyard. You can start operating normally again.
+wavs/000126766.wav|Thanks. And good luck.
+wavs/0001253f6.wav|Call it¡­ Geralt of Rivia.
+wavs/0001253fc.wav|I'd be honored, thanks.
+wavs/000125400.wav|Maybe¡­ Butcher of Blaviken?
+wavs/000125404.wav|Why not¡­ White Wolf.
+wavs/000126e27.wav|Girl reenacted the marked scene, looks like¡­ then expired. Or did something kill her?
+wavs/000126e29.wav|Wonder what'll happen if I reenact the scene.
+wavs/000126e2b.wav|Hm. Pendant's a key. Could be a locked cubby around here somewhere.
+wavs/000126e33.wav|Ready. Now to drink¡­
+wavs/000126e35.wav|Hmm. Need to backtrack along her prints, then light the candles in the same order she did.
+wavs/00012531e.wav|Place mentioned in the note. Archespore saplings are somewhere around here.
+wavs/000125324.wav|Hm, a letter and a key. In a place like this? Oughta be interesting.
+wavs/000125326.wav|Interesting¡­ This note plus what I found earlier - some third party's causing problems at the vineyards.
+wavs/000125a49.wav|Need to find the spot the letter mentions. Bet I'll find something mighty interesting behind whatever door this key opens.
+wavs/000125328.wav|Hm. What've we got here? No chance this letter wound up here by accident.
+wavs/00012532a.wav|Note's clear - someone's out to sabotage Coronata. Shame I don't know who¡­ though I could still find out if I keep looking.
+wavs/000125332.wav|Letter proves Count Crespi's behind the sabotage at both vineyards. Gotta tell Matilda and Liam.
+wavs/000125a1f.wav|Apparently someone's sabotaging operations at Vermentino. But the letter doesn't say who. Hm. Need to keep looking. Could still find out.
+wavs/000125a21.wav|Letter suggests a third party's behind the troubles at Liam's and Matilda's vineyards. Still don't know who, though. And I'm no longer likely to find out. Dammit.
+wavs/000126731.wav|Ducal clerk's looking for help. Could be good coin to be made.
+wavs/000126786.wav|Hmm¡­ Looks like an archespore killed him. Should search the body.
+wavs/00012678d.wav|Archespore saplings? Takes a degenerate to cultivate something like this.
+wavs/0001276ea.wav|Need to incinerate them. Before they spew spores and spread.
+wavs/00012846b.wav|Hmm¡­ Looks like an archespore killed him.
+wavs/00011464a.wav|Can't help but wonder how Toussaint manages to stay out of every war. Nilfgaard's next door, yet it never comes to so much as a minor border skirmish. Not to mention a full-fledged invasion.
+wavs/0001255ed.wav|Sorrow indeed, Your Grace.
+wavs/0001255bd.wav|Thanks for sparing the time, Your Grace.
+wavs/000123f8e.wav|Yeah, I know. Dettlaff's not likely to show up long as I'm here. But five minutes won't save us, will it?
+wavs/000123fd3.wav|Been meaning to ask you¡­ how'd you and Dettlaff meet?
+wavs/000123fd7.wav|I'm all ears and I got time.
+wavs/000123feb.wav|Sorry¡­ just can't imagine you as a young vampire rabble-rouser, renegade, punk.
+wavs/000123fc9.wav|Ugh¡­ Tell me, how's this work? When I need a short answer, concise, quick, you're likely to give me a scholarly lecture. But when I could use some details, elaboration, all's I get is a few grunts. What's that about?
+wavs/00011c2b5.wav|Take care, Regis.
+wavs/0001273d7.wav|Milton and Palmerin? Here? Came a hell of a long way to see me.
+wavs/0001273d9.wav|Need to find them, learn what they want.
+wavs/000125067.wav|Not sure who I expected, but sure didn't expect knights-errant.
+wavs/00011ee70.wav|Milton de Peyrac-Peyran and Palmerin de Launfal. Good to see you both. Been years.
+wavs/00011fb83.wav|Get involved in some squabble?
+wavs/000125065.wav|Found your message on a notice board.
+wavs/00011b142.wav|Ready to go, soon as you're packed.
+wavs/00011b144.wav|Something I need to see to first.
+wavs/0001201f8.wav|Hear that? Your bandits have arrived.
+wavs/000120235.wav|Noble Palmerin's giving you a chance. Now I'm gonna give you some advice - do what he says.
+wavs/000120239.wav|Or you'll find yourself fighting knights-errant in the pay of the duchess of Toussaint. And they eat scum like you with their morning porridge.
+wavs/00012023f.wav|Oooh - insulted the duchess. Not good.
+wavs/00012022f.wav|Seems to me they're unmoved.
+wavs/00011b62c.wav|Warned you it'd be like this. Fear you as much as they did the bandits, now. Sorry, no fanfares and flowers - you're not in Toussaint.
+wavs/00012767b.wav|Exactly how I remembered it.
+wavs/000126e3e.wav|To me, place always seemed straight out of a fairy tale. Knights-errant, elven palaces¡­
+wavs/00011b551.wav|"Securing the area"? Better go there now, before they trample any tracks, manhandle any evidence.
+wavs/00011b53e.wav|I'll take the trophy, why not. Could find someone who'll pay to buy it.
+wavs/0001232d0.wav|Put up a good fight against the giant. Got experience battling monsters?
+wavs/00011d267.wav|A giant this close to human settlements? Strange.
+wavs/00011d285.wav|So he came back down? Why?
+wavs/00011d903.wav|Notice anything interesting?
+wavs/0001232f6.wav|Let's look around, see if we can't find something interesting.
+wavs/000123343.wav|Can't get used to the way you knights talk.
+wavs/0001242b1.wav|Especially how you switch back and forth between flowery and, well, near normal.
+wavs/000123349.wav|Brave kid, Guillaume.
+wavs/000124e4c.wav|Let's look around, make sure they didn't miss anything.
+wavs/0001232e7.wav|Silk kerchief, monogrammed d.l.C. A noble's accessory, clearly.
+wavs/000123335.wav|Junk that came down the river.
+wavs/0001232f8.wav|Drawn here by the smell of blood. Let's keep looking.
+wavs/0001233fb.wav|Got guests! Careful!
+wavs/000123f7e.wav|Nets were attached here.
+wavs/000124ee2.wav|Now we go wading.
+wavs/000124ee8.wav|Pulled the body out of the water here. Must've floated downstream, got caught in the nets.
+wavs/000124eea.wav|I'll dive in, see if the guardsmen missed anything.
+wavs/000124ef6.wav|Wheel ruts. Guardsmen must've transferred the body from the boat onto a cart or wagon.
+wavs/000124ef8.wav|Trail's muddled from here. Got nothing we can follow.
+wavs/000124efa.wav|Blood traces on the bottom. And a boathook.
+wavs/000124efc.wav|Body pulled from the river was transported using this boat.
+wavs/000125fa4.wav|Be nice to know where they took the corpse.
+wavs/000126547.wav|Footprints, see them? And a rut made by the hull of a boat. Left recently, I'd say.
+wavs/00012654b.wav|Look at the rut - guardsmen left this site by boat, recently.
+wavs/00012654d.wav|Probably to transport the body somewhere.
+wavs/000127382.wav|Gonna dive in. Make sure they didn't miss anything.
+wavs/000127384.wav|Mhm. Gonna dive in, check the other nets.
+wavs/000126557.wav|Hobnailed boots, multiple sets of prints. Ducal Guard, clearly - let's see where they went.
+wavs/000126559.wav|Need to comb the bank.
+wavs/00012655b.wav|Walked along the shoreline.
+wavs/00011d951.wav|Barely got back to Toussaint.
+wavs/0001209d5.wav|Killer must still be here.
+wavs/00011ab5c.wav|Claw wounds. From five separate claws, spread of a small human hand.
+wavs/00011ab5e.wav|Footprints. Small, bare feet. Lead deeper into the cellar.
+wavs/00011e322.wav|Woman from the inn was wearing this coat.
+wavs/000121505.wav|Fell down the stairs, broke his neck.
+wavs/000121507.wav|Hurled against the wall with great force.
+wavs/000121509.wav|Used this to batter down the grate¡­
+wavs/000123702.wav|Sounds of a fight. Have to hurry.
+wavs/000123704.wav|Took a lot of strength to batter this down.
+wavs/000123706.wav|Killed with a single blow.
+wavs/000123708.wav|Massacred. By a vampire. Not an ekimmara, though. Or a fleder.
+wavs/000123810.wav|Bruxa. Gotta be.
+wavs/00012370a.wav|Attacker had no trouble knocking over the cart.
+wavs/00012370c.wav|Busted ribs, blood from the ears - took a solid hit¡­
+wavs/000124652.wav|Throat torn open by man-like jaws.
+wavs/000124654.wav|Man-like except for long fangs.
+wavs/0001237cd.wav|In the cellar, gotta be¡­
+wavs/00012406a.wav|River muck. Carried the body in this cart.
+wavs/000125868.wav|Black Blood and Moon Dust - could be lifesavers.
+wavs/00011ca1d.wav|Killed all these men to get to the body.
+wavs/0001237d5.wav|What was she doing at the table, though?
+wavs/00011e34e.wav|We don't have to fight.
+wavs/000120a49.wav|You - saw you at the inn.
+wavs/000124e9c.wav|Black Blood - should've knocked back a vial.
+wavs/000124e9e.wav|Moon Dust'll reveal her.
+wavs/00011bfed.wav|Water-logged, both hands amputated. Body was quartered, just as I thought.
+wavs/00011ab99.wav|So, murderer was clearly a monster, but not a bruxa.
+wavs/00011b653.wav|But then why'd the bruxa come here for the severed hand? And who does the hand belong to? Why the hell's it still warm?
+wavs/00012398d.wav|Now, pouch shoved down the victim's throat - what's the significance? And why was he chopped up into pieces?
+wavs/00011ce13.wav|Lots of questions, no answers so far. Need to know about the other victims. I'll ask Palmerin to get me in to see the duchess.
+wavs/000127275.wav|Third hand. A spare? Except it's clearly not the victim's. Guardsmen must've not noticed it as they picked everything up.
+wavs/000123715.wav|How's this possible? Still warm. Blood's still flowing?
+wavs/0001237db.wav|Several monster species can regenerate. Never heard of that happening to their severed limbs, though. Or of their limbs seeming completely alive after so much time.
+wavs/000123990.wav|Examine the tissue more closely later. Might learn something.
+wavs/00011fe7e.wav|Hm. Seems the bruxa was placing a third hand in her bag¡­
+wavs/00011fe7c.wav|Hand from the bag didn't belong to this victim.
+wavs/000120c69.wav|Ahem, yeah, virtue always wins.
+wavs/000120c73.wav|Moral victory - that's what counts.
+wavs/000124698.wav|Who's fighting? Nilfgaardian gladiators?
+wavs/00012469d.wav|Someone's gonna fight a shaelmaar? With only some bells on its tail to confuse it, slow it down?
+wavs/000120bf9.wav|Not always. Could go either way. Sometimes virtue wins, sometimes villainy gets the upper hand.
+wavs/000120bfb.wav|Still worth being good.
+wavs/000120bff.wav|Palmerin's story - think back. A decent man attracts other good folk, makes friends he can count on. A rogue, well, he can only count on other rogues.
+wavs/000120c01.wav|And who would you rather have for a friend?
+wavs/000123cd8.wav|Well, since we have to wait anyway, steel yourself for a long story¡­
+wavs/00012473d.wav|Cause those were good times. And we were younger. Always nice to talk about that. Look - sun's up.
+wavs/000124bb1.wav|I'd like the duchess to hear what I have to say.
+wavs/000124e91.wav|Gotta keep it down!
+wavs/000124e93.wav|Can only tell where we are when it hears us!
+wavs/00011ceb7.wav|Yes, Your Grace. The Law of Surprise. Time-honored.
+wavs/00011cec9.wav|Lovely, generous gesture, Your Grace. But, uh, Corvo Bianco - isn't it the duchy's temporary morgue?
+wavs/00011ced1.wav|Thank you, Your Grace. I accept the contract, of course. But as I said before, I'll need some information.
+wavs/00011cebb.wav|No, Your Grace. Usually we just ask for gold.
+wavs/00011cebf.wav|Not quite, Your Grace. Law of Surprise¡­ it's something we invoke at times, but rarely. Usually we just take gold.
+wavs/00011ce95.wav|Your Grace, my contract - I'd like to discuss it.
+wavs/00011c24f.wav|Wish to see Dandelion, Your Grace?
+wavs/00011ce8d.wav|Your Grace, shaelmaars're dangerous creatures, even to knights in full plate armor.
+wavs/00011ce91.wav|Mhm. What about the crowd? Say the shaelmaar had vaulted into the stands. Would've been a massacre.
+wavs/000123960.wav|It's suffered enough.
+wavs/000126490.wav|Your Grace seems right at home in the saddle!
+wavs/000124d47.wav|Mean we need to find those things, too?
+wavs/00011b9d3.wav|Golden fish should be easy to spot once I'm under.
+wavs/00011cb1f.wav|Hey folks, gonna have to ruin your fun. Sorry.
+wavs/00011ba6c.wav|Listen, I didn't break any rules.
+wavs/00011e474.wav|Hands off, a man's life is at stake.
+wavs/00011ba7c.wav|Wanna fight? Step on up.
+wavs/00011baaa.wav|Come on. Stay calm.
+wavs/00011baac.wav|Argh! Almost had it.
+wavs/00011bc6c.wav|Gardens're huge. Be better off on horseback.
+wavs/0001217ac.wav|Roach likes carrots. Maybe unicorn will, too¡­
+wavs/0001217ae.wav|Cold game's not likely to tempt a unicorn.
+wavs/0001217b0.wav|Roach wont' eat bread, either. Except if it's stale¡­
+wavs/0001217b2.wav|Think unicorns - rainbows, little girls¡­ sweets, maybe?
+wavs/0001217b4.wav|Crispy apple - should like that like any other damn horse.
+wavs/000121896.wav|Damn, doesn't have a sweet tooth.
+wavs/000121898.wav|An apple - yum, yum.
+wavs/00012189a.wav|What would you say to a delicious, crunchy carrot?
+wavs/0001219f4.wav|Too jumpy. Need to give it some space.
+wavs/000121a76.wav|Try it - it's tasty.
+wavs/00011d0d6.wav|Groans, hollows¡­ Could be a cave, I guess.
+wavs/00011b996.wav|Hm, pretty clever. And it sounds right to me.
+wavs/00011b98e.wav|Greenhouse it is, then. Let's go!
+wavs/00011d0da.wav|Let's see. "Groan" with e's gives us "green," right? And "mouse" with the head of "hard cheese"¡­?
+wavs/00012323e.wav|This belong to you, maybe?
+wavs/000119e00.wav|You've killed four innocent people. At least.
+wavs/000119e44.wav|Not here to talk about me.
+wavs/000119e48.wav|What do you mean, "they"? Duchess hired me. You've been murdering her subjects.
+wavs/000119e4e.wav|Plenty. Even more of the guilty, though. You're next.
+wavs/000119e51.wav|I don't kill innocents. Murderers, though? You bet.
+wavs/000119f72.wav|And once you're done, intend to leave, go kill somewhere else?
